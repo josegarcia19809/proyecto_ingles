@@ -1,0 +1,20 @@
+Proyecto inglés
+
+¿Qué se desea?
+
+Tener una colección de palabras sobre un tema específico para hacer una especie de glosario en una aplicación web.
+
+¿Cuál es su propósito?
+Aplicación para aprender la pronunciación de algunas palabras en inglés, bajo cierta temática, tanto en inglés británico como inglés americano.
+
+¿Cómo se va a estructurar?
+
+listaPalabras
+palabra en inglés (palabra)
+pronunciación americana (ipa_am)
+pronunciación británica (ipa_br)
+audio americano (audio_am)
+audio británico (audio_br)
+significado
+ejemplo
+imagen
